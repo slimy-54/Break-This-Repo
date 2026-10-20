@@ -150,9 +150,9 @@
 >
 > Ce dépôt peut contenir du contenu généré par l’IA
 
----
+---------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://simpleicons.org/icons/scpfoundation.svg" width="120" height="120" />
+<img src="https://cdn.simpleicons.org/scpfoundation/white" width="120">
 
 > [!CAUTION]
 > Warning: This repository contains content that may cause Level III mental contamination, please read with caution
